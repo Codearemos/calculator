@@ -1,0 +1,3 @@
+/** Instalacion de php unit **/
+
+composer require phpunit/phpunit --dev
